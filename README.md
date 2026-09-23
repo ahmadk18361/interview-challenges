@@ -12,8 +12,10 @@ This repository contains the technical interview challenges used by [Wilcore Tec
 | Database Administrator | [`dba-challenge/`](./dba-challenge/) |
 | Data Engineer | [`data-engineer/customer-support-report`](./data-engineer/customer-support-report) |
 | DevOps Engineer | [`devops/`](./devops/) |
+| Frontend Engineer | [`nasa-pod/`](./nasa-pod/) |
 | Backend Engineer (Java) | [`java/spring-boot-challenge/`](./java/spring-boot-challenge/) |
 | Backend Engineer (Ruby) | [`ruby-on-rails/`](./ruby-on-rails/) |
+| Architect | [`architecture-challenge/`](./architecture-challenge/) |
 
 ---
 
